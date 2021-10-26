@@ -26,6 +26,14 @@ body {
 span {
   color: hsl(277, 64%, 61%);
 }
+footer,
+a {
+  margin-top: 3rem;
+  text-decoration: none;
+  color: #fff;
+  text-align: center;
+  font-size: 15px;
+}
 /* Desktop style */
 .container {
   display: flex;
